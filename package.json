@@ -1,0 +1,12 @@
+{
+  "name": "ryialbot",
+  "version": "1.0.0",
+  "main": "ryial.js",
+  "scripts": {
+    "start": "node ryial.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.0.0"
+  }
+}
